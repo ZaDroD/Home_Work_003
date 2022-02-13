@@ -1,0 +1,15 @@
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\Example24.exe
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\Example24.deps.json
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\Example24.runtimeconfig.json
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\Example24.dll
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\ref\Example24.dll
+C:\Users\ZaroD\Desktop\HW003\Example24\bin\Debug\net6.0\Example24.pdb
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.csproj.AssemblyReference.cache
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.AssemblyInfoInputs.cache
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.AssemblyInfo.cs
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.csproj.CoreCompileInputs.cache
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.dll
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\ref\Example24.dll
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.pdb
+C:\Users\ZaroD\Desktop\HW003\Example24\obj\Debug\net6.0\Example24.genruntimeconfig.cache
